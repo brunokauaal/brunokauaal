@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://img.freepik.com/fotos-premium/bandeira-do-brasil-fundo_135932-1335.jpg">
 </div>
- ##
+ ESTOU APRENDENDO
  <div> 
   <a href="https://instagram.com/bkauaalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/brunoloko1227" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
