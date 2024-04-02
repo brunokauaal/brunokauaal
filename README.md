@@ -11,7 +11,7 @@
 - Pode me chamar de Bruno ✌ <br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Desenvolvedor web FullStack<br>
-- Adoro treinar, programação e design <br>
+- Adoro treinar programação e design <br>
 - Amo tecnologia <br>
 - Atualmente estudando Angular<br>
 - Participando do Bootcamp Generation Brasil 
